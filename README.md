@@ -35,3 +35,8 @@ Here are some startup ideas I've been considering, as well as some notes on them
 * A good tool for management k8s deployments
 * This is mostly a b2b enterprise play
 * There are already a lot of players in this space, but every tool I've tried sucks
+
+### Dinner meetups
+
+* Basically like meetup.com except you go to a restaurant for a prix fixe meal
+* Pay ahead of time, show up, dine and enjoy a good conversation with interesting people around a theme of some kind, organized by anyone 
