@@ -2,6 +2,8 @@
 
 Here are some startup ideas I've been considering, as well as some notes on them. If you're excited about one of these ideas and want to work with me on it, please reach out via the internet :)
 
+Most of these ideas come from problems that I've had in the past, and products I wish had existed when I had to deal with them. These are things I'd be happy to pay a monthly fee to use, provided they did what they promised.
+
 ### Stock broker for people who write code
 
 * Create an API that provides free market data and an interface to programmatically trade stocks/ETFs/options/futures
