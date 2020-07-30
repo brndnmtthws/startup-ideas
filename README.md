@@ -1,6 +1,6 @@
 # Startup Ideas 🤔
 
-Here are some startup ideas I've been considering, as well as some notes on them. If you're an investor and you're excited about one of these ideas and want to fund me to work on it, please reach out via the internet :)
+Here are some startup ideas I've been considering, as well as some notes on them. If you're excited about one of these ideas and want to work with me on it, please reach out via the internet :)
 
 ### Stock broker for people who write code
 
