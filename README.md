@@ -42,3 +42,11 @@ Most of these ideas come from problems that I've had in the past, and products I
 
 * Basically like meetup.com except you go to a restaurant for a prix fixe meal
 * Pay ahead of time, show up, dine and enjoy a good conversation with interesting people around a theme of some kind, organized by anyone 
+
+### Video
+
+* Brand new youtube/twitch alternative that has a fresh, simple, clean UI/UX
+* Biggest barrier to entry is the cost of storage/bandwidth for video
+* Dealing with copyright violations is a big challenge
+* Consider a subscription model similar to Substack, with generous payments for content creators
+* Try to onboard big name youtubers, podcasters
