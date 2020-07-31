@@ -18,6 +18,7 @@ Most of these ideas come from problems that I've had in the past, and products I
 * Basically the same thing as goodreads but without the Amazon taint
 * Allow people to enter in the kind of books they enjoy, and we use ML to make suggestions about what do read
 * Allow people to submit reviews for books, without Amazon review jacking (we'll aggressively block spam and fake reviews)
+* Build a great UI on top of public domain books (a la project gutenberg), charge $1/mo for full access to the library
 
 ### Data mover service
 
