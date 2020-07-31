@@ -50,3 +50,4 @@ Most of these ideas come from problems that I've had in the past, and products I
 * Dealing with copyright violations is a big challenge
 * Consider a subscription model similar to Substack, with generous payments for content creators
 * Try to onboard big name youtubers, podcasters
+* No ads, subscription or a la carte only (for premium content)
