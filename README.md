@@ -59,3 +59,9 @@ Most of these ideas come from problems that I've had in the past, and products I
 * No follower counts, no favourite counts, no retweet counts
 * Allow tweet edits, increase tweet size limit to ~500 characters
 * Everything else is pretty much the same
+
+### Bitcoin Savings Account
+
+* Coinjoin yield generating service
+* Based on https://github.com/JoinMarket-Org/joinmarket-clientserver
+* Provide optional tumbler
