@@ -65,3 +65,7 @@ Most of these ideas come from problems that I've had in the past, and products I
 * Coinjoin yield generating service
 * Based on https://github.com/JoinMarket-Org/joinmarket-clientserver
 * Provide optional tumbler
+
+### Amazon for shopping locally
+
+* A clone amazon.com, but allow you to filter by sellers within a certain radius of your location
