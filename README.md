@@ -4,6 +4,12 @@ Here are some startup ideas I've been considering, as well as some notes on them
 
 Most of these ideas come from problems that I've had in the past, and products I wish had existed when I had to deal with them. These are things I'd be happy to pay a monthly fee to use, provided they did what they promised.
 
+### Nix tooling
+
+* Package versioning
+* Tighter dev shell/direnv integration
+* Easy dev -> docker/container pipelines
+
 ### Stock broker for people who write code
 
 * Create an API that provides free market data and an interface to programmatically trade stocks/ETFs/options/futures
